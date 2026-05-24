@@ -979,5 +979,5 @@ public class PatientView extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField9;
     private packagee.PanelRound panelRound1;
     private packagee.PanelRound panelRound2;
-    // End of variables declaration//GEN-END:variables
+    // End of variables declaration//GEN-END:variablesddddddddd
 }
